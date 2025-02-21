@@ -1,4 +1,4 @@
-# NLW Web Project
+# IndicaRank Web
 
 Este projeto é parte do evento Next Level Week (NLW) da Rocketseat. O objetivo do projeto é criar uma aplicação web para gerenciar e visualizar rankings de indicações.
 
